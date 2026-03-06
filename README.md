@@ -11,13 +11,14 @@ https://www.instacart.com/datasets/grocery-shopping-2017
 
 ## Structure
 - A1/
+  - notebooks/
+    task1.ipynb (preprocessing + building transactions)
+    task2a.ipynb (association rule on product)
+    task2b.ipynb (timing rules)
   - product datas (product associations )
   - sampled datas (data after sampling strategy )
   - timing datas ( timing rules)
 
-  task1.ipynb (preprocessing + building transactions)
-  task2a.ipynb (association rule on product)
-  task2b.ipynb (timing rules)
 
 
 ## Report
