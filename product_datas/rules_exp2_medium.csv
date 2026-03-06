@@ -1,0 +1,13 @@
+antecedent,consequent,support,confidence,lift,len_ant,len_con,len_total
+Limes,Large Lemon,0.0105,0.2025,3.6498,1,1,2
+Organic Raspberries,Organic Strawberries,0.0125,0.25,2.6269,1,1,2
+Organic Fuji Apple,Banana,0.0128,0.4028,2.3687,1,1,2
+Organic Raspberries,Bag of Organic Bananas,0.0152,0.3032,2.2307,1,1,2
+Organic Hass Avocado,Bag of Organic Bananas,0.0225,0.2923,2.1501,1,1,2
+Honeycrisp Apple,Banana,0.0103,0.3578,2.1041,1,1,2
+Cucumber Kirby,Banana,0.0119,0.3394,1.9962,1,1,2
+Strawberries,Banana,0.0161,0.3064,1.8021,1,1,2
+Organic Avocado,Banana,0.0196,0.303,1.7819,1,1,2
+Organic Strawberries,Bag of Organic Bananas,0.0225,0.2361,1.7364,1,1,2
+Large Lemon,Banana,0.015,0.2712,1.5951,1,1,2
+Organic Baby Spinach,Bag of Organic Bananas,0.0181,0.2087,1.5355,1,1,2

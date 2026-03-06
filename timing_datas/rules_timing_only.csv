@@ -1,0 +1,463 @@
+antecedent,consequent,support,confidence,lift,len_ant,len_con,len_total
+fresh herbs,"fresh vegetables, HOUR_AFTERNOON",0.0405,0.4343,1.9616,1,2,3
+fresh herbs,"HOUR_MORNING, fresh vegetables",0.0208,0.223,1.9615,1,2,3
+"HOUR_MORNING, fresh herbs",fresh vegetables,0.0208,0.8547,1.932,2,1,3
+"fresh herbs, HOUR_AFTERNOON",fresh vegetables,0.0405,0.8453,1.9109,2,1,3
+"lunch meat, HOUR_AFTERNOON",packaged cheese,0.0222,0.4329,1.888,2,1,3
+lunch meat,"packaged cheese, HOUR_AFTERNOON",0.0222,0.2143,1.8672,1,2,3
+canned jarred vegetables,"fresh vegetables, HOUR_AFTERNOON",0.0286,0.3895,1.759,1,2,3
+"canned jarred vegetables, HOUR_AFTERNOON",fresh vegetables,0.0286,0.7697,1.7399,2,1,3
+canned meals beans,"fresh vegetables, HOUR_AFTERNOON",0.0258,0.3679,1.6617,1,2,3
+"crackers, HOUR_AFTERNOON",packaged cheese,0.0213,0.3739,1.6307,2,1,3
+"canned meals beans, HOUR_AFTERNOON",fresh vegetables,0.0258,0.7174,1.6216,2,1,3
+"bread, HOUR_AFTERNOON",packaged cheese,0.029,0.3657,1.5949,2,1,3
+fresh herbs,"packaged vegetables fruits, HOUR_AFTERNOON",0.0267,0.2864,1.5851,1,2,3
+"packaged vegetables fruits, DOW_Sunday",fresh vegetables,0.0524,0.6949,1.5707,2,1,3
+"packaged cheese, HOUR_AFTERNOON",bread,0.029,0.2523,1.5571,2,1,3
+soup broth bouillon,"fresh vegetables, HOUR_AFTERNOON",0.0288,0.3435,1.5513,1,2,3
+"HOUR_MORNING, yogurt",milk,0.0277,0.3767,1.544,2,1,3
+"HOUR_MORNING, packaged cheese",yogurt,0.0242,0.4073,1.5425,2,1,3
+"soup broth bouillon, HOUR_AFTERNOON",fresh vegetables,0.0288,0.6778,1.5321,2,1,3
+"fresh vegetables, DOW_Sunday",packaged vegetables fruits,0.0524,0.5614,1.5305,2,1,3
+"packaged vegetables fruits, DOW_Saturday",fresh vegetables,0.034,0.6749,1.5255,2,1,3
+dry pasta,"fresh vegetables, HOUR_AFTERNOON",0.0239,0.3375,1.5242,1,2,3
+"HOUR_AFTERNOON, dry pasta",fresh vegetables,0.0239,0.6729,1.5212,2,1,3
+"fresh herbs, HOUR_AFTERNOON",packaged vegetables fruits,0.0267,0.5575,1.52,2,1,3
+"HOUR_MORNING, packaged cheese",milk,0.022,0.3708,1.5198,2,1,3
+"frozen produce, HOUR_AFTERNOON",packaged vegetables fruits,0.0337,0.5561,1.5161,2,1,3
+"milk, HOUR_AFTERNOON",bread,0.0283,0.2438,1.5047,2,1,3
+frozen produce,"packaged vegetables fruits, HOUR_AFTERNOON",0.0337,0.2707,1.4983,1,2,3
+pasta sauce,"fresh vegetables, HOUR_AFTERNOON",0.0206,0.3312,1.4958,1,2,3
+"packaged cheese, HOUR_AFTERNOON",chips pretzels,0.0286,0.2488,1.4888,2,1,3
+"milk, HOUR_MORNING",yogurt,0.0277,0.3927,1.4873,2,1,3
+"yogurt, HOUR_AFTERNOON",packaged cheese,0.0429,0.3407,1.4858,2,1,3
+"milk, HOUR_EVENING",yogurt,0.0226,0.3919,1.4843,2,1,3
+"pasta sauce, HOUR_AFTERNOON",fresh vegetables,0.0206,0.6566,1.4842,2,1,3
+"fresh vegetables, DOW_Monday",packaged vegetables fruits,0.0409,0.5444,1.4842,2,1,3
+"packaged cheese, DOW_Sunday",fresh vegetables,0.0299,0.655,1.4807,2,1,3
+"HOUR_MORNING, fresh vegetables",packaged vegetables fruits,0.0616,0.5421,1.4779,2,1,3
+"fresh dips tapenades, HOUR_AFTERNOON",packaged vegetables fruits,0.0262,0.54,1.4722,2,1,3
+fresh dips tapenades,"packaged vegetables fruits, HOUR_AFTERNOON",0.0262,0.2657,1.4706,1,2,3
+"HOUR_AFTERNOON, chips pretzels",packaged cheese,0.0286,0.3367,1.4686,2,1,3
+"packaged cheese, DOW_Sunday",packaged vegetables fruits,0.0246,0.5383,1.4676,2,1,3
+"fresh fruits, DOW_Sunday",fresh vegetables,0.069,0.6487,1.4664,2,1,3
+"bread, HOUR_AFTERNOON",milk,0.0283,0.3572,1.464,2,1,3
+"fresh fruits, DOW_Sunday",packaged vegetables fruits,0.057,0.5363,1.4621,2,1,3
+"frozen produce, HOUR_AFTERNOON",fresh vegetables,0.0391,0.6462,1.4607,2,1,3
+"packaged vegetables fruits, HOUR_AFTERNOON",fresh vegetables,0.1166,0.6455,1.4592,2,1,3
+fresh vegetables,"packaged vegetables fruits, HOUR_AFTERNOON",0.1166,0.2637,1.4592,1,2,3
+"milk, HOUR_AFTERNOON",yogurt,0.0447,0.3851,1.4586,2,1,3
+"DOW_Sunday, soy lactosefree",fresh vegetables,0.0206,0.6432,1.4539,2,1,3
+"yogurt, HOUR_AFTERNOON",milk,0.0447,0.3547,1.4535,2,1,3
+"eggs, HOUR_AFTERNOON",packaged cheese,0.0218,0.3315,1.4458,2,1,3
+"DOW_Sunday, yogurt",packaged vegetables fruits,0.0279,0.5294,1.4434,2,1,3
+"oils vinegars, HOUR_AFTERNOON",fresh vegetables,0.021,0.6377,1.4416,2,1,3
+"HOUR_MORNING, yogurt",packaged cheese,0.0242,0.3298,1.4384,2,1,3
+"fresh vegetables, HOUR_AFTERNOON",packaged vegetables fruits,0.1166,0.5268,1.4364,2,1,3
+packaged vegetables fruits,"fresh vegetables, HOUR_AFTERNOON",0.1166,0.318,1.4364,1,2,3
+"DOW_Saturday, fresh vegetables",packaged vegetables fruits,0.034,0.5252,1.4318,2,1,3
+"milk, HOUR_AFTERNOON",packaged cheese,0.0381,0.3282,1.4316,2,1,3
+"packaged vegetables fruits, DOW_Monday",fresh vegetables,0.0409,0.633,1.431,2,1,3
+"HOUR_EVENING, yogurt",milk,0.0226,0.3489,1.4301,2,1,3
+"frozen produce, HOUR_MORNING",fresh vegetables,0.0206,0.6324,1.4294,2,1,3
+"yogurt, HOUR_AFTERNOON",bread,0.0292,0.2314,1.4281,2,1,3
+"HOUR_EVENING, packaged cheese",yogurt,0.0208,0.377,1.4278,2,1,3
+"packaged vegetables fruits, HOUR_MORNING",fresh vegetables,0.0616,0.6314,1.4273,2,1,3
+"packaged vegetables fruits, HOUR_EVENING",fresh vegetables,0.0558,0.631,1.4264,2,1,3
+"fresh vegetables, DOW_Friday",packaged vegetables fruits,0.0278,0.5215,1.4218,2,1,3
+"packaged vegetables fruits, DOW_Sunday",packaged cheese,0.0246,0.3258,1.4212,2,1,3
+frozen produce,"fresh vegetables, HOUR_AFTERNOON",0.0391,0.3146,1.4209,1,2,3
+"DOW_Saturday, fresh fruits",fresh vegetables,0.0463,0.6283,1.4204,2,1,3
+"HOUR_EVENING, fresh vegetables",packaged vegetables fruits,0.0558,0.5204,1.4189,2,1,3
+"eggs, HOUR_AFTERNOON",fresh vegetables,0.0412,0.627,1.4174,2,1,3
+"packaged cheese, HOUR_AFTERNOON",yogurt,0.0429,0.374,1.4163,2,1,3
+"eggs, HOUR_AFTERNOON",milk,0.0227,0.3454,1.4154,2,1,3
+"fresh fruits, DOW_Sunday",yogurt,0.0397,0.3735,1.4144,2,1,3
+oils vinegars,"fresh vegetables, HOUR_AFTERNOON",0.021,0.3126,1.4119,1,2,3
+fresh herbs,"fresh fruits, HOUR_AFTERNOON",0.0353,0.3787,1.4099,1,2,3
+"fresh vegetables, DOW_Tuesday",packaged vegetables fruits,0.0292,0.5168,1.4091,2,1,3
+"HOUR_MORNING, eggs",fresh vegetables,0.0227,0.6227,1.4075,2,1,3
+soup broth bouillon,"packaged vegetables fruits, HOUR_AFTERNOON",0.0213,0.2538,1.4047,1,2,3
+"frozen produce, HOUR_AFTERNOON",yogurt,0.0225,0.3708,1.4043,2,1,3
+"packaged vegetables fruits, HOUR_MORNING",yogurt,0.0362,0.3705,1.403,2,1,3
+"packaged vegetables fruits, DOW_Sunday",yogurt,0.0279,0.3701,1.4017,2,1,3
+"DOW_Sunday, yogurt",fresh vegetables,0.0327,0.6196,1.4006,2,1,3
+"HOUR_EVENING, yogurt",packaged cheese,0.0208,0.3211,1.4006,2,1,3
+lunch meat,"packaged vegetables fruits, HOUR_AFTERNOON",0.0262,0.2526,1.3977,1,2,3
+"fresh vegetables, DOW_Sunday",packaged cheese,0.0299,0.3203,1.3971,2,1,3
+"eggs, HOUR_AFTERNOON",packaged vegetables fruits,0.0336,0.5117,1.3952,2,1,3
+"bread, HOUR_AFTERNOON",yogurt,0.0292,0.3681,1.3943,2,1,3
+"DOW_Saturday, packaged cheese",fresh vegetables,0.0204,0.6165,1.3936,2,1,3
+"lunch meat, HOUR_AFTERNOON",packaged vegetables fruits,0.0262,0.5101,1.3907,2,1,3
+"packaged vegetables fruits, DOW_Friday",fresh vegetables,0.0278,0.6143,1.3885,2,1,3
+"fresh vegetables, DOW_Thursday",packaged vegetables fruits,0.0252,0.5087,1.3868,2,1,3
+"packaged cheese, DOW_Monday",packaged vegetables fruits,0.02,0.5086,1.3866,2,1,3
+"packaged vegetables fruits, HOUR_MORNING",soy lactosefree,0.023,0.2355,1.3866,2,1,3
+"HOUR_MORNING, packaged cheese",packaged vegetables fruits,0.0302,0.5073,1.3832,2,1,3
+"packaged vegetables fruits, DOW_Tuesday",fresh vegetables,0.0292,0.6116,1.3826,2,1,3
+"crackers, HOUR_AFTERNOON",yogurt,0.0208,0.3649,1.382,2,1,3
+"eggs, HOUR_AFTERNOON",yogurt,0.0239,0.3637,1.3775,2,1,3
+"DOW_Saturday, fresh fruits",packaged vegetables fruits,0.0372,0.505,1.3769,2,1,3
+"HOUR_AFTERNOON, butter",fresh vegetables,0.0223,0.6084,1.3753,2,1,3
+"DOW_Saturday, fresh vegetables",packaged cheese,0.0204,0.3144,1.3711,2,1,3
+"packaged vegetables fruits, DOW_Thursday",fresh vegetables,0.0252,0.6065,1.371,2,1,3
+"other creams cheeses, HOUR_AFTERNOON",fresh vegetables,0.0261,0.6064,1.3707,2,1,3
+"packaged vegetables fruits, HOUR_AFTERNOON",packaged cheese,0.0567,0.3136,1.3679,2,1,3
+packaged cheese,"packaged vegetables fruits, HOUR_AFTERNOON",0.0567,0.2472,1.3679,1,2,3
+other creams cheeses,"fresh vegetables, HOUR_AFTERNOON",0.0261,0.3026,1.3669,1,2,3
+"packaged vegetables fruits, HOUR_MORNING",fresh fruits,0.0741,0.7591,1.3668,2,1,3
+"milk, DOW_Sunday",packaged vegetables fruits,0.0226,0.5013,1.3667,2,1,3
+"soup broth bouillon, HOUR_AFTERNOON",packaged vegetables fruits,0.0213,0.5009,1.3656,2,1,3
+"milk, HOUR_MORNING",packaged cheese,0.022,0.313,1.3651,2,1,3
+eggs,"fresh vegetables, HOUR_AFTERNOON",0.0412,0.3022,1.365,1,2,3
+eggs,"packaged vegetables fruits, HOUR_AFTERNOON",0.0336,0.2466,1.3649,1,2,3
+"packaged vegetables fruits, DOW_Sunday",fresh fruits,0.057,0.7563,1.3617,2,1,3
+"HOUR_MORNING, fresh vegetables",packaged cheese,0.0355,0.3121,1.3613,2,1,3
+"packaged vegetables fruits, DOW_Monday",fresh fruits,0.0488,0.7557,1.3606,2,1,3
+hot dogs bacon sausage,"packaged vegetables fruits, HOUR_AFTERNOON",0.0208,0.2458,1.3605,1,2,3
+"packaged cheese, HOUR_AFTERNOON",milk,0.0381,0.3318,1.3599,2,1,3
+"DOW_Monday, yogurt",packaged vegetables fruits,0.0232,0.4986,1.3594,2,1,3
+"packaged vegetables fruits, DOW_Monday",yogurt,0.0232,0.3585,1.3579,2,1,3
+"DOW_Sunday, yogurt",fresh fruits,0.0397,0.7534,1.3565,2,1,3
+"fresh vegetables, DOW_Monday",packaged cheese,0.0233,0.3107,1.3551,2,1,3
+butter,"fresh vegetables, HOUR_AFTERNOON",0.0223,0.2994,1.3522,1,2,3
+"refrigerated, HOUR_AFTERNOON",yogurt,0.0236,0.3567,1.3511,2,1,3
+"packaged vegetables fruits, DOW_Monday",packaged cheese,0.02,0.3096,1.3504,2,1,3
+"HOUR_MORNING, packaged cheese",fresh vegetables,0.0355,0.5969,1.3492,2,1,3
+"packaged vegetables fruits, HOUR_MORNING",packaged cheese,0.0302,0.309,1.3478,2,1,3
+"fresh vegetables, DOW_Wednesday",packaged vegetables fruits,0.0247,0.4941,1.3472,2,1,3
+"packaged cheese, HOUR_AFTERNOON",packaged vegetables fruits,0.0567,0.4937,1.3461,2,1,3
+"HOUR_MORNING, yogurt",packaged vegetables fruits,0.0362,0.4925,1.3427,2,1,3
+"DOW_Saturday, yogurt",fresh vegetables,0.0213,0.5935,1.3416,2,1,3
+"packaged cheese, DOW_Monday",fresh vegetables,0.0233,0.5935,1.3415,2,1,3
+"packaged vegetables fruits, HOUR_EVENING",yogurt,0.0313,0.354,1.3406,2,1,3
+"DOW_Monday, fresh fruits",packaged vegetables fruits,0.0488,0.4915,1.3399,2,1,3
+hot dogs bacon sausage,"fresh vegetables, HOUR_AFTERNOON",0.025,0.2964,1.3387,1,2,3
+"milk, DOW_Sunday",fresh vegetables,0.0267,0.5914,1.3368,2,1,3
+canned meals beans,"fresh fruits, HOUR_AFTERNOON",0.0251,0.3589,1.3359,1,2,3
+"fresh vegetables, HOUR_AFTERNOON",packaged cheese,0.0678,0.3061,1.3352,2,1,3
+packaged cheese,"fresh vegetables, HOUR_AFTERNOON",0.0678,0.2956,1.3352,1,2,3
+"packaged cheese, HOUR_AFTERNOON",fresh vegetables,0.0678,0.5905,1.3348,2,1,3
+"yogurt, HOUR_AFTERNOON",packaged vegetables fruits,0.0617,0.4895,1.3345,2,1,3
+"fresh fruits, DOW_Sunday",packaged cheese,0.0325,0.3057,1.3336,2,1,3
+"fresh fruits, DOW_Sunday",bread,0.023,0.2159,1.3327,2,1,3
+"HOUR_MORNING, fresh vegetables",fresh fruits,0.0841,0.7399,1.3323,2,1,3
+"fresh fruits, HOUR_AFTERNOON",packaged vegetables fruits,0.1312,0.4885,1.3319,2,1,3
+packaged vegetables fruits,"fresh fruits, HOUR_AFTERNOON",0.1312,0.3578,1.3319,1,2,3
+"HOUR_AFTERNOON, soy lactosefree",packaged vegetables fruits,0.0398,0.4883,1.3314,2,1,3
+"fresh vegetables, DOW_Sunday",fresh fruits,0.069,0.7391,1.3308,2,1,3
+"packaged vegetables fruits, DOW_Wednesday",fresh vegetables,0.0247,0.5884,1.3302,2,1,3
+"frozen produce, HOUR_MORNING",fresh fruits,0.0241,0.7386,1.3299,2,1,3
+"packaged vegetables fruits, DOW_Saturday",fresh fruits,0.0372,0.7384,1.3296,2,1,3
+"hot dogs bacon sausage, HOUR_AFTERNOON",packaged vegetables fruits,0.0208,0.4876,1.3294,2,1,3
+"packaged vegetables fruits, HOUR_MORNING",bread,0.021,0.2153,1.329,2,1,3
+"hot dogs bacon sausage, HOUR_AFTERNOON",fresh vegetables,0.025,0.5879,1.3289,2,1,3
+"fresh herbs, HOUR_AFTERNOON",fresh fruits,0.0353,0.7372,1.3273,2,1,3
+"HOUR_MORNING, fresh fruits",yogurt,0.0536,0.3503,1.3269,2,1,3
+yogurt,"HOUR_MORNING, fresh fruits",0.0536,0.2031,1.3269,1,2,3
+"fresh vegetables, DOW_Sunday",yogurt,0.0327,0.35,1.3254,2,1,3
+"DOW_Sunday, soy lactosefree",fresh fruits,0.0235,0.736,1.3253,2,1,3
+"HOUR_MORNING, soy lactosefree",packaged vegetables fruits,0.023,0.4859,1.3247,2,1,3
+"DOW_Monday, yogurt",fresh fruits,0.0342,0.7352,1.3237,2,1,3
+"HOUR_EVENING, yogurt",packaged vegetables fruits,0.0313,0.4847,1.3215,2,1,3
+"fresh vegetables, DOW_Monday",fresh fruits,0.0551,0.7335,1.3206,2,1,3
+"HOUR_MORNING, fresh fruits",packaged vegetables fruits,0.0741,0.4841,1.3198,2,1,3
+packaged vegetables fruits,"HOUR_MORNING, fresh fruits",0.0741,0.202,1.3198,1,2,3
+"DOW_Saturday, fresh fruits",yogurt,0.0257,0.3484,1.3197,2,1,3
+frozen produce,"fresh fruits, HOUR_AFTERNOON",0.0441,0.3545,1.3196,1,2,3
+"fresh dips tapenades, HOUR_AFTERNOON",fresh vegetables,0.0283,0.5836,1.3193,2,1,3
+"packaged vegetables fruits, DOW_Friday",fresh fruits,0.0331,0.7326,1.319,2,1,3
+"HOUR_MORNING, fresh vegetables",soy lactosefree,0.0254,0.2239,1.3181,2,1,3
+"HOUR_EVENING, fresh fruits",packaged vegetables fruits,0.0646,0.4833,1.3177,2,1,3
+"packaged vegetables fruits, HOUR_EVENING",fresh fruits,0.0646,0.7304,1.3151,2,1,3
+"packaged vegetables fruits, HOUR_MORNING",milk,0.0313,0.3209,1.3151,2,1,3
+"HOUR_MORNING, yogurt",fresh fruits,0.0536,0.7304,1.315,2,1,3
+"HOUR_MORNING, bread",packaged vegetables fruits,0.021,0.4822,1.3146,2,1,3
+"fresh fruits, HOUR_AFTERNOON",fresh vegetables,0.1559,0.5803,1.3117,2,1,3
+fresh vegetables,"fresh fruits, HOUR_AFTERNOON",0.1559,0.3523,1.3117,1,2,3
+"frozen produce, HOUR_AFTERNOON",fresh fruits,0.0441,0.7281,1.3109,2,1,3
+"lunch meat, HOUR_AFTERNOON",fresh vegetables,0.0297,0.5792,1.3093,2,1,3
+"packaged vegetables fruits, HOUR_AFTERNOON",fresh fruits,0.1312,0.7262,1.3076,2,1,3
+fresh fruits,"packaged vegetables fruits, HOUR_AFTERNOON",0.1312,0.2363,1.3076,1,2,3
+"DOW_Saturday, fresh fruits",packaged cheese,0.0221,0.2994,1.306,2,1,3
+"HOUR_AFTERNOON, water seltzer sparkling water",chips pretzels,0.0206,0.2182,1.306,2,1,3
+"HOUR_EVENING, packaged cheese",packaged vegetables fruits,0.0264,0.4787,1.3052,2,1,3
+DOW_Sunday,"fresh vegetables, HOUR_AFTERNOON",0.0504,0.2886,1.3035,1,2,3
+"fresh vegetables, HOUR_AFTERNOON",DOW_Sunday,0.0504,0.2278,1.3035,2,1,3
+"fresh fruits, DOW_Sunday",soy lactosefree,0.0235,0.2214,1.3034,2,1,3
+"fresh vegetables, yogurt",DOW_Sunday,0.0327,0.2277,1.303,2,1,3
+"eggs, DOW_Sunday",fresh fruits,0.0205,0.7235,1.3027,2,1,3
+"packaged vegetables fruits, DOW_Tuesday",fresh fruits,0.0345,0.7235,1.3026,2,1,3
+"DOW_Monday, fresh fruits",yogurt,0.0342,0.3438,1.3021,2,1,3
+"packaged vegetables fruits, HOUR_EVENING",packaged cheese,0.0264,0.2978,1.2988,2,1,3
+other creams cheeses,"packaged vegetables fruits, HOUR_AFTERNOON",0.0202,0.2346,1.2981,1,2,3
+"frozen produce, HOUR_EVENING",fresh fruits,0.0225,0.7209,1.298,2,1,3
+"fresh vegetables, DOW_Sunday",soy lactosefree,0.0206,0.2204,1.2976,2,1,3
+fresh dips tapenades,"fresh vegetables, HOUR_AFTERNOON",0.0283,0.2872,1.2973,1,2,3
+"HOUR_MORNING, fresh vegetables",bread,0.0239,0.2101,1.297,2,1,3
+soy lactosefree,"packaged vegetables fruits, HOUR_AFTERNOON",0.0398,0.2342,1.2963,1,2,3
+"packaged vegetables fruits, HOUR_AFTERNOON",soy lactosefree,0.0398,0.2202,1.2963,2,1,3
+"HOUR_EVENING, fresh fruits",yogurt,0.0458,0.3422,1.2959,2,1,3
+lunch meat,"fresh vegetables, HOUR_AFTERNOON",0.0297,0.2868,1.2953,1,2,3
+"baking ingredients, HOUR_AFTERNOON",fresh vegetables,0.0214,0.5725,1.2941,2,1,3
+"packaged vegetables fruits, HOUR_AFTERNOON",yogurt,0.0617,0.3413,1.2926,2,1,3
+yogurt,"packaged vegetables fruits, HOUR_AFTERNOON",0.0617,0.2336,1.2926,1,2,3
+"HOUR_EVENING, fresh fruits",fresh vegetables,0.0764,0.5716,1.2921,2,1,3
+"HOUR_MORNING, eggs",fresh fruits,0.0262,0.7171,1.2912,2,1,3
+"DOW_Sunday, bread",fresh fruits,0.023,0.7169,1.2907,2,1,3
+"yogurt, HOUR_AFTERNOON",chips pretzels,0.0272,0.2156,1.2905,2,1,3
+"yogurt, HOUR_AFTERNOON",soy lactosefree,0.0276,0.2192,1.2904,2,1,3
+"HOUR_MORNING, fresh vegetables",yogurt,0.0387,0.3401,1.288,2,1,3
+"DOW_Saturday, fresh vegetables",fresh fruits,0.0463,0.7149,1.2872,2,1,3
+"HOUR_AFTERNOON, soy lactosefree",fresh vegetables,0.0464,0.5691,1.2865,2,1,3
+fresh dips tapenades,"fresh fruits, HOUR_AFTERNOON",0.0341,0.3456,1.2865,1,2,3
+"milk, DOW_Sunday",fresh fruits,0.0323,0.7144,1.2862,2,1,3
+"HOUR_EVENING, packaged cheese",fresh vegetables,0.0313,0.5688,1.2858,2,1,3
+"packaged vegetables fruits, DOW_Thursday",fresh fruits,0.0297,0.7136,1.2848,2,1,3
+"DOW_Saturday, yogurt",fresh fruits,0.0257,0.7136,1.2848,2,1,3
+"fresh vegetables, DOW_Friday",fresh fruits,0.038,0.7131,1.2839,2,1,3
+"HOUR_AFTERNOON, soy lactosefree",yogurt,0.0276,0.339,1.2838,2,1,3
+"HOUR_EVENING, fresh vegetables",fresh fruits,0.0764,0.7124,1.2828,2,1,3
+"HOUR_MORNING, fresh fruits",soy lactosefree,0.0333,0.2178,1.2827,2,1,3
+"packaged cheese, DOW_Sunday",fresh fruits,0.0325,0.7123,1.2826,2,1,3
+"bread, HOUR_AFTERNOON",packaged vegetables fruits,0.0373,0.4704,1.2826,2,1,3
+"other creams cheeses, HOUR_AFTERNOON",packaged vegetables fruits,0.0202,0.47,1.2814,2,1,3
+"DOW_Friday, yogurt",fresh fruits,0.0233,0.7116,1.2813,2,1,3
+DOW_Sunday,"packaged vegetables fruits, fresh vegetables",0.0524,0.2998,1.2808,1,2,3
+"packaged vegetables fruits, fresh vegetables",DOW_Sunday,0.0524,0.2238,1.2808,2,1,3
+"HOUR_MORNING, fresh fruits",milk,0.0478,0.3124,1.2802,2,1,3
+"yogurt, HOUR_AFTERNOON",fresh fruits,0.0896,0.7109,1.28,2,1,3
+"DOW_Monday, soy lactosefree",fresh fruits,0.0214,0.7108,1.2797,2,1,3
+DOW_Sunday,"packaged vegetables fruits, HOUR_AFTERNOON",0.0404,0.2311,1.2789,1,2,3
+"packaged vegetables fruits, HOUR_AFTERNOON",DOW_Sunday,0.0404,0.2235,1.2789,2,1,3
+"DOW_Tuesday, fresh fruits",packaged vegetables fruits,0.0345,0.4685,1.2773,2,1,3
+"HOUR_EVENING, yogurt",fresh fruits,0.0458,0.7081,1.2749,2,1,3
+dry pasta,"fresh fruits, HOUR_AFTERNOON",0.0242,0.3424,1.2746,1,2,3
+"HOUR_EVENING, fresh vegetables",packaged cheese,0.0313,0.2918,1.2728,2,1,3
+"DOW_Friday, fresh fruits",packaged vegetables fruits,0.0331,0.4667,1.2725,2,1,3
+bread,"packaged vegetables fruits, HOUR_AFTERNOON",0.0373,0.2299,1.2725,1,2,3
+"packaged vegetables fruits, HOUR_AFTERNOON",bread,0.0373,0.2062,1.2725,2,1,3
+"packaged vegetables fruits, DOW_Wednesday",fresh fruits,0.0296,0.7064,1.2718,2,1,3
+"fresh vegetables, packaged cheese",DOW_Sunday,0.0299,0.2222,1.2714,2,1,3
+"bread, HOUR_AFTERNOON",fresh vegetables,0.0445,0.5621,1.2706,2,1,3
+"DOW_Monday, fresh fruits",soy lactosefree,0.0214,0.2156,1.2692,2,1,3
+"HOUR_MORNING, soy lactosefree",fresh fruits,0.0333,0.7048,1.2691,2,1,3
+"fresh vegetables, HOUR_AFTERNOON",fresh fruits,0.1559,0.704,1.2676,2,1,3
+fresh fruits,"fresh vegetables, HOUR_AFTERNOON",0.1559,0.2806,1.2676,1,2,3
+"packaged cheese, DOW_Monday",fresh fruits,0.0276,0.7029,1.2656,2,1,3
+"HOUR_MORNING, packaged cheese",fresh fruits,0.0418,0.7028,1.2654,2,1,3
+"HOUR_AFTERNOON, chips pretzels",water seltzer sparkling water,0.0206,0.2424,1.2647,2,1,3
+"fresh dips tapenades, HOUR_AFTERNOON",fresh fruits,0.0341,0.7022,1.2643,2,1,3
+"HOUR_MORNING, bread",fresh fruits,0.0306,0.702,1.264,2,1,3
+yogurt,"fresh fruits, HOUR_AFTERNOON",0.0896,0.3393,1.263,1,2,3
+"fresh fruits, HOUR_AFTERNOON",yogurt,0.0896,0.3335,1.263,2,1,3
+"HOUR_MORNING, fresh vegetables",milk,0.035,0.3079,1.2619,2,1,3
+lunch meat,"fresh fruits, HOUR_AFTERNOON",0.0351,0.3388,1.2614,1,2,3
+"canned meals beans, HOUR_AFTERNOON",fresh fruits,0.0251,0.6997,1.2599,2,1,3
+pasta sauce,"fresh fruits, HOUR_AFTERNOON",0.021,0.3382,1.259,1,2,3
+"DOW_Friday, fresh fruits",milk,0.0218,0.3067,1.2571,2,1,3
+"DOW_Saturday, fresh fruits",milk,0.0225,0.3061,1.2544,2,1,3
+baking ingredients,"fresh vegetables, HOUR_AFTERNOON",0.0214,0.2777,1.2541,1,2,3
+"DOW_Monday, fresh fruits",fresh vegetables,0.0551,0.5547,1.2539,2,1,3
+"milk, DOW_Monday",fresh fruits,0.0296,0.6956,1.2525,2,1,3
+"yogurt, HOUR_AFTERNOON",fresh vegetables,0.0698,0.5539,1.252,2,1,3
+"DOW_Tuesday, fresh fruits",yogurt,0.0243,0.3304,1.2514,2,1,3
+"fresh vegetables, DOW_Tuesday",fresh fruits,0.0392,0.6949,1.2511,2,1,3
+"fresh vegetables, DOW_Thursday",fresh fruits,0.0344,0.6949,1.2511,2,1,3
+"spreads, HOUR_AFTERNOON",fresh fruits,0.0266,0.6938,1.2492,2,1,3
+"DOW_Tuesday, yogurt",fresh fruits,0.0243,0.6937,1.2491,2,1,3
+"DOW_Saturday, fresh vegetables",yogurt,0.0213,0.3297,1.2488,2,1,3
+canned jarred vegetables,"fresh fruits, HOUR_AFTERNOON",0.0246,0.3354,1.2486,1,2,3
+"fresh vegetables, soy lactosefree",DOW_Sunday,0.0206,0.2181,1.2482,2,1,3
+DOW_Sunday,"fresh vegetables, fresh fruits",0.069,0.3948,1.2476,1,2,3
+"fresh vegetables, fresh fruits",DOW_Sunday,0.069,0.218,1.2476,2,1,3
+"packaged cheese, HOUR_AFTERNOON",DOW_Sunday,0.025,0.2179,1.247,2,1,3
+"yogurt, DOW_Wednesday",fresh fruits,0.0216,0.6921,1.2461,2,1,3
+"DOW_Friday, fresh fruits",yogurt,0.0233,0.3289,1.2457,2,1,3
+spreads,"fresh fruits, HOUR_AFTERNOON",0.0266,0.3343,1.2446,1,2,3
+"fresh fruits, DOW_Sunday",milk,0.0323,0.3033,1.2431,2,1,3
+"HOUR_MORNING, fresh fruits",fresh vegetables,0.0841,0.5496,1.2424,2,1,3
+"packaged vegetables fruits, packaged cheese",DOW_Sunday,0.0246,0.2171,1.2423,2,1,3
+"fresh fruits, DOW_Wednesday",yogurt,0.0216,0.3279,1.2417,2,1,3
+"fresh vegetables, DOW_Wednesday",fresh fruits,0.0344,0.6896,1.2416,2,1,3
+"eggs, fresh fruits",DOW_Sunday,0.0205,0.2169,1.2415,2,1,3
+crackers,"packaged vegetables fruits, HOUR_AFTERNOON",0.0259,0.2243,1.2411,1,2,3
+bread,"fresh vegetables, HOUR_AFTERNOON",0.0445,0.2747,1.2408,1,2,3
+"fresh vegetables, HOUR_AFTERNOON",bread,0.0445,0.201,1.2408,2,1,3
+"eggs, HOUR_AFTERNOON",fresh fruits,0.0452,0.6888,1.2401,2,1,3
+"crackers, HOUR_AFTERNOON",packaged vegetables fruits,0.0259,0.4547,1.2398,2,1,3
+packaged cheese,"fresh fruits, HOUR_AFTERNOON",0.0763,0.3329,1.2395,1,2,3
+"fresh fruits, HOUR_AFTERNOON",packaged cheese,0.0763,0.2842,1.2395,2,1,3
+bread,"fresh fruits, HOUR_AFTERNOON",0.0539,0.3329,1.2394,1,2,3
+"fresh fruits, HOUR_AFTERNOON",bread,0.0539,0.2008,1.2394,2,1,3
+"HOUR_MORNING, bread",fresh vegetables,0.0239,0.5482,1.2391,2,1,3
+"HOUR_AFTERNOON, soy lactosefree",fresh fruits,0.056,0.6877,1.2382,2,1,3
+"fresh vegetables, DOW_Monday",yogurt,0.0246,0.3269,1.2382,2,1,3
+"HOUR_EVENING, fresh fruits",soy lactosefree,0.0281,0.2103,1.2381,2,1,3
+"HOUR_EVENING, soy lactosefree",fresh vegetables,0.0225,0.5477,1.238,2,1,3
+"packaged vegetables fruits, yogurt",DOW_Sunday,0.0279,0.2161,1.2366,2,1,3
+"milk, HOUR_AFTERNOON",chips pretzels,0.024,0.2065,1.2359,2,1,3
+eggs,"fresh fruits, HOUR_AFTERNOON",0.0452,0.332,1.2358,1,2,3
+"HOUR_EVENING, fresh vegetables",yogurt,0.035,0.3263,1.2358,2,1,3
+"DOW_Sunday, HOUR_AFTERNOON",fresh vegetables,0.0504,0.5464,1.2352,2,1,3
+"yogurt, HOUR_AFTERNOON",DOW_Sunday,0.0272,0.2157,1.2347,2,1,3
+"HOUR_EVENING, fresh vegetables",soy lactosefree,0.0225,0.2097,1.2344,2,1,3
+"DOW_Thursday, fresh fruits",packaged vegetables fruits,0.0297,0.4527,1.2342,2,1,3
+soy lactosefree,"fresh vegetables, HOUR_AFTERNOON",0.0464,0.273,1.233,1,2,3
+"fresh vegetables, HOUR_AFTERNOON",soy lactosefree,0.0464,0.2094,1.233,2,1,3
+"HOUR_EVENING, soy lactosefree",fresh fruits,0.0281,0.6847,1.2328,2,1,3
+"lunch meat, HOUR_AFTERNOON",fresh fruits,0.0351,0.6843,1.2321,2,1,3
+energy granola bars,"fresh fruits, HOUR_AFTERNOON",0.0287,0.3306,1.2309,1,2,3
+"milk, DOW_Saturday",fresh fruits,0.0225,0.6833,1.2302,2,1,3
+"packaged vegetables fruits, DOW_Sunday",milk,0.0226,0.3002,1.2302,2,1,3
+"HOUR_MORNING, DOW_Sunday",fresh vegetables,0.0227,0.5439,1.2294,2,1,3
+"HOUR_AFTERNOON, dry pasta",fresh fruits,0.0242,0.6827,1.2292,2,1,3
+"milk, fresh vegetables",DOW_Sunday,0.0267,0.2147,1.2289,2,1,3
+"HOUR_EVENING, eggs",fresh fruits,0.0233,0.6822,1.2284,2,1,3
+soy lactosefree,"fresh fruits, HOUR_AFTERNOON",0.056,0.3299,1.228,1,2,3
+"fresh fruits, HOUR_AFTERNOON",soy lactosefree,0.056,0.2086,1.228,2,1,3
+"bread, HOUR_AFTERNOON",fresh fruits,0.0539,0.6811,1.2264,2,1,3
+"fresh fruits, DOW_Wednesday",packaged vegetables fruits,0.0296,0.4492,1.2248,2,1,3
+"HOUR_EVENING, yogurt",fresh vegetables,0.035,0.5417,1.2246,2,1,3
+"DOW_Monday, fresh fruits",milk,0.0296,0.2983,1.2224,2,1,3
+"milk, HOUR_MORNING",fresh fruits,0.0478,0.6788,1.2222,2,1,3
+"nuts seeds dried fruit, HOUR_AFTERNOON",fresh vegetables,0.0211,0.5405,1.2219,2,1,3
+"HOUR_EVENING, bread",fresh fruits,0.0266,0.6782,1.2211,2,1,3
+"spreads, HOUR_AFTERNOON",fresh vegetables,0.0207,0.5391,1.2187,2,1,3
+"milk, HOUR_AFTERNOON",packaged vegetables fruits,0.0519,0.447,1.2187,2,1,3
+other creams cheeses,"fresh fruits, HOUR_AFTERNOON",0.0282,0.327,1.2173,1,2,3
+"DOW_Thursday, yogurt",fresh fruits,0.0201,0.6758,1.2168,2,1,3
+"HOUR_MORNING, soy lactosefree",fresh vegetables,0.0254,0.538,1.2162,2,1,3
+"DOW_Monday, fresh fruits",packaged cheese,0.0276,0.2783,1.2139,2,1,3
+"HOUR_AFTERNOON, chips pretzels",yogurt,0.0272,0.3204,1.2135,2,1,3
+"HOUR_AFTERNOON, soy lactosefree",packaged cheese,0.0226,0.278,1.2125,2,1,3
+"milk, HOUR_MORNING",packaged vegetables fruits,0.0313,0.4447,1.2123,2,1,3
+"HOUR_EVENING, bread",fresh vegetables,0.021,0.5358,1.2113,2,1,3
+"DOW_Friday, fresh fruits",fresh vegetables,0.038,0.5351,1.2096,2,1,3
+"nuts seeds dried fruit, HOUR_AFTERNOON",fresh fruits,0.0262,0.6717,1.2095,2,1,3
+"DOW_Sunday, chips pretzels",fresh fruits,0.0202,0.6715,1.209,2,1,3
+DOW_Sunday,"packaged vegetables fruits, fresh fruits",0.057,0.3264,1.2089,1,2,3
+"packaged vegetables fruits, fresh fruits",DOW_Sunday,0.057,0.2112,1.2089,2,1,3
+"milk, DOW_Friday",fresh fruits,0.0218,0.671,1.2082,2,1,3
+"energy granola bars, HOUR_AFTERNOON",fresh fruits,0.0287,0.6708,1.2077,2,1,3
+chips pretzels,"packaged vegetables fruits, HOUR_AFTERNOON",0.0365,0.2182,1.2077,1,2,3
+frozen produce,DOW_Sunday,0.0263,0.211,1.2077,1,1,2
+"packaged vegetables fruits, HOUR_AFTERNOON",chips pretzels,0.0365,0.2018,1.2077,2,1,3
+DOW_Sunday,fresh vegetables,0.0933,0.5341,1.2074,1,1,2
+fresh vegetables,DOW_Sunday,0.0933,0.211,1.2074,1,1,2
+"pasta sauce, HOUR_AFTERNOON",fresh fruits,0.021,0.6705,1.2073,2,1,3
+hot dogs bacon sausage,"fresh fruits, HOUR_AFTERNOON",0.0274,0.3243,1.2073,1,2,3
+"milk, HOUR_EVENING",fresh fruits,0.0385,0.6691,1.2047,2,1,3
+"packaged cheese, fresh fruits",DOW_Sunday,0.0325,0.2104,1.204,2,1,3
+"DOW_Tuesday, fresh fruits",fresh vegetables,0.0392,0.5325,1.2037,2,1,3
+"DOW_Saturday, packaged cheese",fresh fruits,0.0221,0.6681,1.2029,2,1,3
+lunch meat,DOW_Sunday,0.0218,0.2102,1.2029,1,1,2
+DOW_Sunday,"fresh fruits, yogurt",0.0397,0.2273,1.2028,1,2,3
+"fresh fruits, yogurt",DOW_Sunday,0.0397,0.2102,1.2028,2,1,3
+"milk, HOUR_AFTERNOON",fresh fruits,0.0775,0.668,1.2027,2,1,3
+soup broth bouillon,"fresh fruits, HOUR_AFTERNOON",0.0271,0.323,1.2024,1,2,3
+nuts seeds dried fruit,"fresh fruits, HOUR_AFTERNOON",0.0262,0.3229,1.202,1,2,3
+crackers,"fresh fruits, HOUR_AFTERNOON",0.0373,0.3229,1.2019,1,2,3
+"HOUR_MORNING, crackers",fresh fruits,0.0209,0.6651,1.1975,2,1,3
+"packaged cheese, HOUR_AFTERNOON",fresh fruits,0.0763,0.665,1.1974,2,1,3
+"milk, packaged vegetables fruits",DOW_Sunday,0.0226,0.2091,1.1968,2,1,3
+"DOW_Monday, yogurt",fresh vegetables,0.0246,0.5287,1.1951,2,1,3
+"fresh vegetables, HOUR_AFTERNOON",yogurt,0.0698,0.3152,1.1938,2,1,3
+yogurt,"fresh vegetables, HOUR_AFTERNOON",0.0698,0.2643,1.1938,1,2,3
+"canned jarred vegetables, HOUR_AFTERNOON",fresh fruits,0.0246,0.6629,1.1935,2,1,3
+"DOW_Sunday, HOUR_AFTERNOON",packaged vegetables fruits,0.0404,0.4375,1.1929,2,1,3
+"refrigerated, HOUR_AFTERNOON",packaged vegetables fruits,0.0289,0.4374,1.1925,2,1,3
+eggs,DOW_Sunday,0.0284,0.2083,1.1921,1,1,2
+ice cream ice,HOUR_EVENING,0.0317,0.2902,1.192,1,1,2
+"HOUR_EVENING, packaged cheese",fresh fruits,0.0364,0.6619,1.1917,2,1,3
+"HOUR_MORNING, fresh fruits",packaged cheese,0.0418,0.273,1.1906,2,1,3
+"HOUR_MORNING, yogurt",fresh vegetables,0.0387,0.5266,1.1905,2,1,3
+DOW_Sunday,"fresh fruits, HOUR_AFTERNOON",0.0558,0.3196,1.1897,1,2,3
+"fresh fruits, HOUR_AFTERNOON",DOW_Sunday,0.0558,0.2079,1.1897,2,1,3
+"fresh vegetables, DOW_Monday",milk,0.0218,0.2899,1.1882,2,1,3
+"HOUR_EVENING, fresh fruits",packaged cheese,0.0364,0.2724,1.1882,2,1,3
+"DOW_Thursday, fresh fruits",fresh vegetables,0.0344,0.5256,1.1881,2,1,3
+"milk, HOUR_EVENING",packaged vegetables fruits,0.025,0.4352,1.1866,2,1,3
+"breakfast bakery, HOUR_AFTERNOON",fresh fruits,0.022,0.6585,1.1857,2,1,3
+"HOUR_MORNING, fresh fruits",DOW_Monday,0.0311,0.2033,1.1852,2,1,3
+refrigerated,"packaged vegetables fruits, HOUR_AFTERNOON",0.0289,0.2138,1.1833,1,2,3
+breakfast bakery,"fresh fruits, HOUR_AFTERNOON",0.022,0.3178,1.1829,1,2,3
+milk,"fresh fruits, HOUR_AFTERNOON",0.0775,0.3177,1.1825,1,2,3
+"fresh fruits, HOUR_AFTERNOON",milk,0.0775,0.2885,1.1825,2,1,3
+"fresh fruits, bread",DOW_Sunday,0.023,0.2066,1.1822,2,1,3
+"DOW_Sunday, HOUR_AFTERNOON",packaged cheese,0.025,0.271,1.182,2,1,3
+"fresh fruits, DOW_Wednesday",fresh vegetables,0.0344,0.5223,1.1806,2,1,3
+butter,"fresh fruits, HOUR_AFTERNOON",0.0236,0.3171,1.1804,1,2,3
+"HOUR_EVENING, fresh fruits",milk,0.0385,0.2879,1.1798,2,1,3
+"other creams cheeses, HOUR_AFTERNOON",fresh fruits,0.0282,0.6552,1.1796,2,1,3
+"refrigerated, HOUR_MORNING",fresh fruits,0.023,0.655,1.1794,2,1,3
+"crackers, HOUR_AFTERNOON",fresh fruits,0.0373,0.6547,1.1788,2,1,3
+"milk, HOUR_AFTERNOON",fresh vegetables,0.0604,0.5209,1.1776,2,1,3
+DOW_Sunday,packaged vegetables fruits,0.0754,0.4315,1.1765,1,1,2
+packaged vegetables fruits,DOW_Sunday,0.0754,0.2056,1.1765,1,1,2
+"packaged vegetables fruits, HOUR_AFTERNOON",milk,0.0519,0.287,1.1764,2,1,3
+milk,"packaged vegetables fruits, HOUR_AFTERNOON",0.0519,0.2126,1.1764,1,2,3
+nuts seeds dried fruit,"fresh vegetables, HOUR_AFTERNOON",0.0211,0.2598,1.1735,1,2,3
+spreads,"fresh vegetables, HOUR_AFTERNOON",0.0207,0.2598,1.1734,1,2,3
+"fresh vegetables, DOW_Sunday",milk,0.0267,0.2861,1.1725,2,1,3
+"HOUR_AFTERNOON, chips pretzels",packaged vegetables fruits,0.0365,0.43,1.1723,2,1,3
+"DOW_Monday, fresh fruits",HOUR_MORNING,0.0311,0.3131,1.1717,2,1,3
+"DOW_Thursday, fresh fruits",yogurt,0.0201,0.3073,1.1637,2,1,3
+chips pretzels,"fresh fruits, HOUR_AFTERNOON",0.0522,0.3124,1.163,1,2,3
+refrigerated,"fresh fruits, HOUR_AFTERNOON",0.0423,0.3123,1.1624,1,2,3
+"HOUR_MORNING, chips pretzels",fresh fruits,0.0273,0.6447,1.1607,2,1,3
+"HOUR_AFTERNOON, butter",fresh fruits,0.0236,0.6444,1.1602,2,1,3
+"packaged vegetables fruits, HOUR_EVENING",milk,0.025,0.283,1.1598,2,1,3
+"hot dogs bacon sausage, HOUR_AFTERNOON",fresh fruits,0.0274,0.6432,1.1581,2,1,3
+"HOUR_AFTERNOON, chips pretzels",milk,0.024,0.2826,1.158,2,1,3
+oils vinegars,"fresh fruits, HOUR_AFTERNOON",0.0209,0.3108,1.1569,1,2,3
+"cereal, HOUR_AFTERNOON",fresh fruits,0.0283,0.6423,1.1565,2,1,3
+"milk, DOW_Monday",fresh vegetables,0.0218,0.5114,1.1559,2,1,3
+"DOW_Sunday, water seltzer sparkling water",fresh fruits,0.0213,0.6417,1.1554,2,1,3
+"DOW_Tuesday, fresh fruits",milk,0.0207,0.281,1.1517,2,1,3
+"milk, DOW_Tuesday",fresh fruits,0.0207,0.6389,1.1504,2,1,3
+"refrigerated, HOUR_AFTERNOON",fresh fruits,0.0423,0.6387,1.15,2,1,3
+"milk, HOUR_AFTERNOON",DOW_Sunday,0.0233,0.2009,1.1496,2,1,3
+"soup broth bouillon, HOUR_AFTERNOON",fresh fruits,0.0271,0.6374,1.1476,2,1,3
+"cream, HOUR_AFTERNOON",fresh vegetables,0.0226,0.5075,1.1472,2,1,3
+"fresh fruits, soy lactosefree",DOW_Sunday,0.0235,0.2004,1.1466,2,1,3
+"refrigerated, HOUR_EVENING",fresh fruits,0.0216,0.6356,1.1444,2,1,3
+"HOUR_AFTERNOON, water seltzer sparkling water",packaged cheese,0.0247,0.2621,1.1434,2,1,3
+DOW_Sunday,yogurt,0.0527,0.3017,1.1425,1,1,2
+"oils vinegars, HOUR_AFTERNOON",fresh fruits,0.0209,0.634,1.1416,2,1,3
+"refrigerated, HOUR_AFTERNOON",fresh vegetables,0.0333,0.504,1.1393,2,1,3
+DOW_Sunday,packaged cheese,0.0456,0.2612,1.1393,1,1,2
+cereal,"fresh fruits, HOUR_AFTERNOON",0.0283,0.306,1.1391,1,2,3
+cream,HOUR_MORNING,0.0279,0.3038,1.1367,1,1,2
+"milk, HOUR_EVENING",fresh vegetables,0.0289,0.5022,1.1353,2,1,3
+"crackers, HOUR_AFTERNOON",fresh vegetables,0.0286,0.5016,1.1338,2,1,3
+"HOUR_MORNING, DOW_Sunday",fresh fruits,0.0261,0.6256,1.1264,2,1,3
+"DOW_Saturday, HOUR_AFTERNOON",fresh vegetables,0.0325,0.4978,1.1253,2,1,3
+cream,"fresh fruits, HOUR_AFTERNOON",0.0278,0.3022,1.1248,1,2,3
+DOW_Saturday,"fresh vegetables, HOUR_AFTERNOON",0.0325,0.2489,1.1241,1,2,3
+"milk, HOUR_MORNING",fresh vegetables,0.035,0.497,1.1235,2,1,3
+"packaged cheese, HOUR_AFTERNOON",water seltzer sparkling water,0.0247,0.2151,1.1224,2,1,3
+"HOUR_EVENING, DOW_Sunday",fresh vegetables,0.0202,0.4963,1.1219,2,1,3
+"cream, HOUR_AFTERNOON",fresh fruits,0.0278,0.6229,1.1215,2,1,3
+DOW_Saturday,fresh vegetables,0.0647,0.4959,1.121,1,1,2
+DOW_Saturday,"fresh vegetables, fresh fruits",0.0463,0.3545,1.1204,1,2,3
+"packaged cheese, DOW_Sunday",HOUR_AFTERNOON,0.025,0.548,1.12,2,1,3
+"fresh vegetables, HOUR_AFTERNOON",milk,0.0604,0.273,1.1189,2,1,3
+milk,"fresh vegetables, HOUR_AFTERNOON",0.0604,0.2477,1.1189,1,2,3
+"juice nectars, HOUR_AFTERNOON",fresh fruits,0.0265,0.6213,1.1187,2,1,3
+juice nectars,"fresh fruits, HOUR_AFTERNOON",0.0265,0.3004,1.1185,1,2,3
+crackers,"fresh vegetables, HOUR_AFTERNOON",0.0286,0.2473,1.1172,1,2,3
+"DOW_Sunday, HOUR_AFTERNOON",yogurt,0.0272,0.2946,1.1156,2,1,3
+"yogurt, HOUR_AFTERNOON",water seltzer sparkling water,0.0269,0.2137,1.1153,2,1,3
+refrigerated,"fresh vegetables, HOUR_AFTERNOON",0.0333,0.2464,1.1129,1,2,3
+DOW_Saturday,"packaged vegetables fruits, fresh vegetables",0.034,0.2604,1.1124,1,2,3
+cream,"fresh vegetables, HOUR_AFTERNOON",0.0226,0.2462,1.1118,1,2,3
+DOW_Monday,HOUR_MORNING,0.0509,0.2966,1.1097,1,1,2
+"HOUR_AFTERNOON, chips pretzels",fresh fruits,0.0522,0.6156,1.1083,2,1,3
+DOW_Thursday,HOUR_EVENING,0.0338,0.2691,1.1053,1,1,2
+"fresh vegetables, DOW_Sunday",HOUR_AFTERNOON,0.0504,0.5403,1.1043,2,1,3
+"HOUR_EVENING, fresh vegetables",milk,0.0289,0.2693,1.1038,2,1,3
+chips pretzels,"fresh vegetables, HOUR_AFTERNOON",0.0408,0.2443,1.1033,1,2,3
+DOW_Saturday,packaged cheese,0.033,0.2529,1.1029,1,1,2
+"juice nectars, HOUR_AFTERNOON",fresh vegetables,0.0208,0.4876,1.1023,2,1,3
+"HOUR_MORNING, DOW_Monday",fresh fruits,0.0311,0.6116,1.1011,2,1,3

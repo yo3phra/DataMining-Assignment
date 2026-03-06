@@ -1,0 +1,16 @@
+antecedent,consequent,support,confidence,lift,len_ant,len_con,len_total
+DOW_Sunday,fresh vegetables,0.0933,0.5341,1.2074,1,1,2
+fresh vegetables,DOW_Sunday,0.0933,0.211,1.2074,1,1,2
+DOW_Sunday,packaged vegetables fruits,0.0754,0.4315,1.1765,1,1,2
+packaged vegetables fruits,DOW_Sunday,0.0754,0.2056,1.1765,1,1,2
+DOW_Saturday,fresh vegetables,0.0647,0.4959,1.121,1,1,2
+DOW_Sunday,yogurt,0.0527,0.3017,1.1425,1,1,2
+DOW_Monday,HOUR_MORNING,0.0509,0.2966,1.1097,1,1,2
+DOW_Sunday,packaged cheese,0.0456,0.2612,1.1393,1,1,2
+DOW_Thursday,HOUR_EVENING,0.0338,0.2691,1.1053,1,1,2
+DOW_Saturday,packaged cheese,0.033,0.2529,1.1029,1,1,2
+ice cream ice,HOUR_EVENING,0.0317,0.2902,1.192,1,1,2
+eggs,DOW_Sunday,0.0284,0.2083,1.1921,1,1,2
+cream,HOUR_MORNING,0.0279,0.3038,1.1367,1,1,2
+frozen produce,DOW_Sunday,0.0263,0.211,1.2077,1,1,2
+lunch meat,DOW_Sunday,0.0218,0.2102,1.2029,1,1,2
