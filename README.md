@@ -6,8 +6,8 @@ This repository contains the code used for Assignment 1.
 Instacart Online Grocery Dataset.
 
 Due to file size, the dataset is not included in the repository.
-It can be downloaded from:
-https://www.instacart.com/datasets/grocery-shopping-2017
+
+The notebooks folder is precompiled
 
 ## Structure
 - A1/
