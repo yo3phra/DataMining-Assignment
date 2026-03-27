@@ -1,23 +1,26 @@
 # DataMining-Assignment
 
-This repository contains the code used for Assignment 1.
+This repository contains the code used for A1 and A2.
+This repo was build locally then dragged into the git repository. This can ecplain the path differences (REQUIRE CHANGES)
 
 ## Dataset
-Instacart Online Grocery Dataset.
 
-Due to file size, the dataset is not included in the repository.
+
+Due to file size, the dataset are not included in the repository.
 
 The notebooks folder is precompiled
 
 ## Structure
 - A1/
+- A2/
   - notebooks/
-    task1.ipynb (preprocessing + building transactions)
-    task2a.ipynb (association rule on product)
-    task2b.ipynb (timing rules)
-  - product datas (product associations )
-  - sampled datas (data after sampling strategy )
-  - timing datas ( timing rules)
+    preprocessing.ipynb
+    task1.ipynb 
+    task2.ipynb 
+    best_model.json
+  - preprocessed (data after prepocessing )
+  - output (contains final rating_test )
+
 
 
 

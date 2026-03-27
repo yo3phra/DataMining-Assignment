@@ -7,4 +7,5 @@ env/
 # datasets
 datas/
 A1/datas/
+.ipynb_checkpoints
 
