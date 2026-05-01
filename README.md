@@ -6,20 +6,21 @@ This repo was build locally then dragged into the git repository. This can ecpla
 ## Dataset
 
 
-Due to file size, the dataset are not included in the repository.
+Due to file size, datasets are not included in the repository.
 
 The notebooks folder is precompiled
 
 ## Structure
 - A1/
 - A2/
+- A3/
   - notebooks/
-    preprocessing.ipynb
     task1.ipynb 
     task2.ipynb 
-    best_model.json
-  - preprocessed (data after prepocessing )
-  - output (contains final rating_test )
+    task3.ipynb
+  - preprocessed/ (data after prepocessing )
+  - final_output/ (contains final anomalies.csv and cluster.csv )
+  - fig/ contains plots from notebooks
 
 
 
