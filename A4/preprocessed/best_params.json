@@ -1,0 +1,17 @@
+{
+    "lr": {
+        "C": 0.1,
+        "penalty": "l1",
+        "solver": "liblinear"
+    },
+    "dt": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 30
+    },
+    "rf": {
+        "max_depth": null,
+        "min_samples_leaf": 5,
+        "n_estimators": 200
+    }
+}

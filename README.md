@@ -14,12 +14,13 @@ The notebooks folder is precompiled
 - A1/
 - A2/
 - A3/
+- A4/
   - notebooks/
     task1.ipynb 
     task2.ipynb 
     task3.ipynb
   - preprocessed/ (data after prepocessing )
-  - final_output/ (contains final anomalies.csv and cluster.csv )
+  - prediction_output/ (contains prediction_themeplate_FILLED.csv )
   - fig/ contains plots from notebooks
 
 
